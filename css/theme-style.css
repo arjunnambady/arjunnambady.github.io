@@ -28,18 +28,17 @@ body a{
 	font-weight: 500;
 }
 .top-nav ul li.active a{
-	background: url(../images/active-ico.png) no-repeat 50% 100%;
 }
 .top-nav ul li.contatct-active a{
 	border:2px solid #394346;
 	border-radius:5px;
 }
 .top-nav ul li.contatct-active a:hover{
-	border-color:#FD3B01;
+	border-color:#D41A5D;
 	color:#394346;
 }
 .top-nav ul li a:hover{
-	color:#FD3B01;
+	color:#D41A5D;
 }
 .logo a{
 	display:block;
@@ -171,7 +170,7 @@ nav a#pull {
 }
 .slide-btn{
 	color: #fff;
-	background: #FD3B01;
+	background: #D41A5D;
 	font-size: 1.2em;
 	padding: 0.7em 1.8em;
 	display: inline-block;
@@ -208,7 +207,6 @@ nav a#pull {
 	width:12px;
 	height:20px;
 	display:inline-block;
-	background:url(../images/arrow-icon.png)no-repeat 0px 0px;
 }
 .features-grid span{
 	height:140px;
@@ -229,7 +227,7 @@ nav a#pull {
 }
 .features-grid span i{
 	font-size: 3em;
-	color: #FD3B01;
+	color: #D41A5D;
 	margin-top: 0.8em;
 	transition:0.5s all;
 	-webkit-transition:0.5s all;
@@ -252,7 +250,7 @@ nav a#pull {
 	line-height: 1.5em;
 }
 .features-grid:hover span{
-	background:#FD3B01;
+	background:#D41A5D;
 	border-color:#FFDCD1;
 }
 .features-grid:hover i{
@@ -332,7 +330,7 @@ nav a#pull {
 	border-color:#EBEBEB;
 }
 .work-grid:hover .w-icon i{
-	color:#FD3B01;
+	color:#D41A5D;
 }
 /*---- //End-work----*/
 /*----start-portfolio-----*/
@@ -357,7 +355,7 @@ nav a#pull {
 		font-size: 1em;
 	}
 	#filters li span.active {
-		color: #FD3B01;
+		color: #D41A5D;
 	}
  	#portfoliolist .portfolio {
 		-webkit-box-sizing: border-box;
@@ -571,7 +569,7 @@ nav a#pull {
 	color:#959594;
 }
 .categorie a{
-	color:#FD3B01;
+	color:#D41A5D;
 }
 .categorie a:hover{
 	color:#394346;
@@ -586,7 +584,7 @@ nav a#pull {
 }
 .post-head a:hover{
 	text-decoration:none;
-	color:#FD3B01;
+	color:#D41A5D;
 }
 .blog-post-info p{
 	color: #394346;
@@ -599,7 +597,7 @@ nav a#pull {
 	width: 90px;
 	height: 90px;
 	display: inline-block;
-	background: #FD3B01;
+	background: #D41A5D;
 	border-radius: 30em;
 	text-align: center;
 	color: #fff;
@@ -620,7 +618,7 @@ nav a#pull {
 	width: 1px;
 	height: 900px;
 	display: block;
-	background: #FD3B01;
+	background: #D41A5D;
 	position: absolute;
 	top: 10%;
 	left: 7.5%;
@@ -641,7 +639,7 @@ nav a#pull {
 	height:80px;
 	width:80px;
 	display:inline-block;
-	background:#00AEEF;
+	background:#0F99D6;
 	border-radius: 30em;
 	-webkit-border-radius: 30em;
 	-moz-border-radius: 30em;
@@ -652,7 +650,7 @@ nav a#pull {
 }
 .more-blog-post-time-line-connector a:hover{
 	text-decoration:none;
-	background:#FD3B01;
+	background:#D41A5D;
 }
 .more-blog-post-time-line-connector a span{
 	margin-top: 1.8em;
@@ -680,7 +678,7 @@ nav a#pull {
 }
 .test-monial-time-line-left-pic a:hover{
 	text-decoration:none;
-	color:#FD3B01;
+	color:#D41A5D;
 }
 .test-monial-time-line-left-pic img{
 	border-radius:5px;
@@ -693,7 +691,7 @@ nav a#pull {
 	height: 40px;
 	width: 40px;
 	display: block;
-	background: #FD3B01;
+	background: #D41A5D;
 	border: 6px solid #DEDEDE;
 	border-radius: 30em;
 	position: absolute;
@@ -729,7 +727,7 @@ nav a#pull {
 	padding: 3em 0 4em;
 }
 .more-testmonial-time-line{
-	background: #00AEEF;
+	background: #0F99D6;
 	height: 70px;
 	width: 70px;
 	display: block;
@@ -751,7 +749,7 @@ nav a#pull {
 .more-testmonial-time-line:hover{
 	text-decoration:none;
 	color:#FFF;
-	background:#FD3B01;
+	background:#D41A5D;
 }
 .more-testmonial-time-line span{
 	margin-top: 1.4em;
@@ -772,10 +770,9 @@ nav a#pull {
 	width: 12px;
 	height: 20px;
 	display: inline-block;
-	background: url(../images/arrow-icon.png)no-repeat 0px 0px;
 }
 .contact-left p i{
-	color:#FD3B01;
+	color:#D41A5D;
 }
 .contact-left p{
 	color:#394346;
@@ -800,7 +797,7 @@ nav a#pull {
 	font-weight:normal;
 }
 .contact-left input[type="submit"]{
-	background: #FD3B01;
+	background: #D41A5D;
 	text-transform: uppercase;
 	color: #FFF;
 	font-size: 1em;
@@ -870,11 +867,11 @@ nav a#pull {
 	margin:0.8em 0 0;
 }
 .footer-left p a{
-	color:#00AEEF;
+	color:#0F99D6;
 }
 .footer-left p a:hover{
 	text-decoration:none;
-	color:#FD3B01;
+	color:#D41A5D;
 }
 #toTop {
 	display: none;
