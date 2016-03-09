@@ -673,7 +673,7 @@ nav a#pull {
 	color: #394346;
 	font-size: 1.1em;
 	font-weight: 600;
-	margin: 0.2em 0;
+	margin: 0em 0;
 	display: block;
 }
 .test-monial-time-line-left-pic a:hover{
@@ -681,7 +681,7 @@ nav a#pull {
 	color:#D41A5D;
 }
 .test-monial-time-line-left-pic img{
-	border-radius:5px;
+	border-radius: 30px;
 	display:inline-block;
 }
 .test-monial-time-line-grid{
@@ -1069,6 +1069,8 @@ div.col-md-3.features-grid {
 }
 .logo {
 	margin-top: 1.5em;
+        width: 60%;
+        height: 40%;
 }
 .top-nav ul li.active a {
 	background: none;
