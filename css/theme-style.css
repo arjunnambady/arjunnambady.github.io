@@ -616,7 +616,7 @@ nav a#pull {
 }
 .blog-post-time-line-connector span{
 	width: 1px;
-	height: 560px;
+	height: 83%;
 	display: block;
 	background: #D41A5D;
 	position: absolute;
@@ -631,7 +631,7 @@ nav a#pull {
 	padding: 3em 0;
 }
 .more-blog-post-time-line-connector{
-	position: absolute;
+	position: relative;
 	bottom: 5%;
 	left: 2.5%;
 }
